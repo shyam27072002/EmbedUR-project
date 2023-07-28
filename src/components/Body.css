@@ -1,0 +1,22 @@
+.body {
+    background-color: azure;
+    height: max-content;
+
+}
+.bodyItems {
+    display: flex;
+    flex-wrap: wrap;
+}
+.chatButton  {
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top:0;
+        float: right;
+        margin-right: 50px;
+        background-color:rgb(18, 202, 79);
+        border-radius: 50%;
+        border: none;
+       
+          
+      
+}
